@@ -74,5 +74,3 @@ tmp <- data.frame(Question = "Which district of canton Zurich had the highest sh
   )
 
 tmp <- tmp %>% ungroup()
-
-quiz_df_business <- rbind(quiz_df_business, tmp)
