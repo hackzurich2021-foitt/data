@@ -35,14 +35,14 @@ addline_format <- function(x,...){
 Basel_voting  %>% group_by(Titel, Gemeinde) %>% 
   summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
             `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-            `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
+            `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
   rbind(Basel_voting %>% group_by(Titel) %>% 
           summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
                     `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-                    `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
+                    `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
           mutate(Gemeinde = "all")) %>% #tail(10)
-  mutate(Yes_share = `Ja-Stimmen`/`Gültige Stimmzettel`,
-         No_share = `Nein-Stimmen`/`Gültige Stimmzettel`,
+  mutate(Yes_share = `Ja-Stimmen`/`GÃ¼ltige Stimmzettel`,
+         No_share = `Nein-Stimmen`/`GÃ¼ltige Stimmzettel`,
          Size = ifelse(Gemeinde=="all", 1, 0),
          Titel = factor(Titel, levels = variable_3)) %>%
   ggplot() + geom_line(aes(x = Titel, y = Yes_share, color = Gemeinde, size = Size, group = Gemeinde)) + 
@@ -75,8 +75,8 @@ for (i in 1:nrow(tmp)){
       group_by(Titel) %>% 
       summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
                 `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-                `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
-      mutate(Yes_share = `Ja-Stimmen`/`Gültige Stimmzettel`, No_share = `Nein-Stimmen`/`Gültige Stimmzettel`)
+                `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
+      mutate(Yes_share = `Ja-Stimmen`/`GÃ¼ltige Stimmzettel`, No_share = `Nein-Stimmen`/`GÃ¼ltige Stimmzettel`)
     if (tmp$variable_1[i]=="Yes") {
       tmp$Answer[i] = jnk$Yes_share[1]*100
     } else {tmp$Answer[i] = jnk$No_share[1]*100}
@@ -86,8 +86,8 @@ for (i in 1:nrow(tmp)){
       group_by(Titel) %>% 
       summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
                 `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-                `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
-      mutate(Yes_share = `Ja-Stimmen`/`Gültige Stimmzettel`, No_share = `Nein-Stimmen`/`Gültige Stimmzettel`)
+                `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
+      mutate(Yes_share = `Ja-Stimmen`/`GÃ¼ltige Stimmzettel`, No_share = `Nein-Stimmen`/`GÃ¼ltige Stimmzettel`)
     if (tmp$variable_1[i]=="Yes") {
       tmp$Answer[i] = jnk$Yes_share[1]*100
     } else {tmp$Answer[i] = jnk$No_share[1]*100}
@@ -122,9 +122,9 @@ Basel_voting  %>% mutate(Post = ifelse(grepl("brieflich", Wahllokal, fixed = TRU
   group_by(Post, Titel) %>% 
   summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
             `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-            `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
-  mutate(Yes_share = `Ja-Stimmen`/`Gültige Stimmzettel`,
-         No_share = `Nein-Stimmen`/`Gültige Stimmzettel`,
+            `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
+  mutate(Yes_share = `Ja-Stimmen`/`GÃ¼ltige Stimmzettel`,
+         No_share = `Nein-Stimmen`/`GÃ¼ltige Stimmzettel`,
          Titel = factor(Titel, levels = variable_3)) %>% #select(Post, Yes_share, No_share) %>%
   #gather(Variable, Value, -Post) %>%
   ggplot() + geom_line(aes(y = Yes_share, x = Titel, color = Post, group = Post)) + 
@@ -153,9 +153,9 @@ for (i in 1:nrow(tmp)){
     group_by(Post, Titel) %>% 
     summarise(`Ja-Stimmen`= sum(`Ja-Stimmen`, na.rm = TRUE), 
               `Nein-Stimmen` = sum(`Nein-Stimmen`, na.rm = TRUE),
-              `Gültige Stimmzettel`= sum(`Gültige Stimmzettel`, na.rm = TRUE)) %>%
-    mutate(Yes_share = `Ja-Stimmen`/`Gültige Stimmzettel`,
-           No_share = `Nein-Stimmen`/`Gültige Stimmzettel`,
+              `GÃ¼ltige Stimmzettel`= sum(`GÃ¼ltige Stimmzettel`, na.rm = TRUE)) %>%
+    mutate(Yes_share = `Ja-Stimmen`/`GÃ¼ltige Stimmzettel`,
+           No_share = `Nein-Stimmen`/`GÃ¼ltige Stimmzettel`,
            Titel = factor(Titel, levels = variable_3))
     if (tmp$variable_1[i]=="Yes") {
       tmp$Answer[i] = jnk$Yes_share[jnk$Titel == tmp$variable_3[i] & jnk$Post == tmp$variable_4[i]]*100
@@ -182,14 +182,5 @@ quiz_df_politics <- rbind(quiz_df_politics, tmp)
 # randomise questions
 
 write.csv(quiz_df_politics[sample(nrow(quiz_df_politics)), ], 
-          "C:/Users/marin/Documents/HackZurich2021/quiz_db/quiz_df_politics.csv",
+          "HackZurich2021/quiz_db/quiz_df_politics.csv",
           row.names = FALSE)
-
-
-
-# Category: Business
-# Category: Education
-# Category: Geography
-# Category: Health
-# Category: Mobility
-# Category: Science
