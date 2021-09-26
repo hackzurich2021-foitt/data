@@ -124,5 +124,5 @@ tmp <- tmp %>% ungroup() %>% unnest(c(Answer_ID)) %>%
 quiz_df_education <- rbind(quiz_df_education, tmp)
 
 write.csv(quiz_df_education[sample(nrow(quiz_df_education)), ], 
-          "C:/Users/marin/Documents/HackZurich2021/quiz_db/quiz_df_education.csv",
+          "HackZurich2021/quiz_db/quiz_df_education.csv",
           row.names = FALSE)
