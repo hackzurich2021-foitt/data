@@ -1,0 +1,733 @@
+﻿TIME_PERIOD,GEO,NOGA,CLASS,LEGAL,INDICATOR,OBS_VALUE,OBS_STATUS
+2013,CH,_T,_T,_T,Jobs created by New businesses,51317,A
+2013,CH01,_T,_T,_T,Jobs created by New businesses,9547,A
+2013,22,_T,_T,_T,Jobs created by New businesses,4237,A
+2013,23,_T,_T,_T,Jobs created by New businesses,1671,A
+2013,25,_T,_T,_T,Jobs created by New businesses,3639,A
+2013,CH02,_T,_T,_T,Jobs created by New businesses,8343,A
+2013,2,_T,_T,_T,Jobs created by New businesses,4376,A
+2013,10,_T,_T,_T,Jobs created by New businesses,1470,A
+2013,11,_T,_T,_T,Jobs created by New businesses,1197,A
+2013,24,_T,_T,_T,Jobs created by New businesses,1023,A
+2013,26,_T,_T,_T,Jobs created by New businesses,277,A
+2013,CH03,_T,_T,_T,Jobs created by New businesses,6082,A
+2013,12,_T,_T,_T,Jobs created by New businesses,1482,A
+2013,13,_T,_T,_T,Jobs created by New businesses,1302,A
+2013,19,_T,_T,_T,Jobs created by New businesses,3298,A
+2013,CH04,_T,_T,_T,Jobs created by New businesses,10517,A
+2013,1,_T,_T,_T,Jobs created by New businesses,10517,A
+2013,CH05,_T,_T,_T,Jobs created by New businesses,6087,A
+2013,8,_T,_T,_T,Jobs created by New businesses,161,A
+2013,14,_T,_T,_T,Jobs created by New businesses,448,A
+2013,15,_T,_T,_T,Jobs created by New businesses,350,A
+2013,16,_T,_T,_T,Jobs created by New businesses,126,A
+2013,17,_T,_T,_T,Jobs created by New businesses,2539,A
+2013,18,_T,_T,_T,Jobs created by New businesses,1206,A
+2013,20,_T,_T,_T,Jobs created by New businesses,1257,A
+2013,CH06,_T,_T,_T,Jobs created by New businesses,6271,A
+2013,3,_T,_T,_T,Jobs created by New businesses,2112,A
+2013,4,_T,_T,_T,Jobs created by New businesses,185,A
+2013,5,_T,_T,_T,Jobs created by New businesses,1325,A
+2013,6,_T,_T,_T,Jobs created by New businesses,248,A
+2013,7,_T,_T,_T,Jobs created by New businesses,303,A
+2013,9,_T,_T,_T,Jobs created by New businesses,2098,A
+2013,CH07,_T,_T,_T,Jobs created by New businesses,4470,A
+2013,21,_T,_T,_T,Jobs created by New businesses,4470,A
+2013,CH,B-F,_T,_T,Jobs created by New businesses,7552,A
+2013,CH,B-E,_T,_T,Jobs created by New businesses,2364,A
+2013,CH,F,_T,_T,Jobs created by New businesses,5188,A
+2013,CH,G-S,_T,_T,Jobs created by New businesses,43765,A
+2013,CH,G,_T,_T,Jobs created by New businesses,6417,A
+2013,CH,H,_T,_T,Jobs created by New businesses,1135,A
+2013,CH,I,_T,_T,Jobs created by New businesses,1916,A
+2013,CH,J,_T,_T,Jobs created by New businesses,2818,A
+2013,CH,K,_T,_T,Jobs created by New businesses,2142,A
+2013,CH,L-N,_T,_T,Jobs created by New businesses,5672,A
+2013,CH,M,_T,_T,Jobs created by New businesses,9835,A
+2013,CH,P,_T,_T,Jobs created by New businesses,1935,A
+2013,CH,Q,_T,_T,Jobs created by New businesses,5249,A
+2013,CH,R,_T,_T,Jobs created by New businesses,3062,A
+2013,CH,S,_T,_T,Jobs created by New businesses,3584,A
+2013,CH,_T,1,_T,Jobs created by New businesses,30984,A
+2013,CH,_T,10+,_T,Jobs created by New businesses,2966,A
+2013,CH,_T,2TO4,_T,Jobs created by New businesses,13443,A
+2013,CH,_T,5TO9,_T,Jobs created by New businesses,3924,A
+2013,CH,_T,_T,1,Jobs created by New businesses,25035,A
+2013,CH,_T,_T,2,Jobs created by New businesses,1115,A
+2013,CH,_T,_T,3,Jobs created by New businesses,10452,A
+2013,CH,_T,_T,4,Jobs created by New businesses,12720,A
+2013,CH,_T,_T,5,Jobs created by New businesses,117,A
+2013,CH,_T,_T,6,Jobs created by New businesses,434,A
+2013,CH,_T,_T,7,Jobs created by New businesses,1433,A
+2013,CH,_T,_T,8,Jobs created by New businesses,11,A
+2013,CH,_T,_T,_T,New businesses,37317,A
+2013,CH01,_T,_T,_T,New businesses,6969,A
+2013,22,_T,_T,_T,New businesses,3135,A
+2013,23,_T,_T,_T,New businesses,1248,A
+2013,25,_T,_T,_T,New businesses,2586,A
+2013,CH02,_T,_T,_T,New businesses,6242,A
+2013,2,_T,_T,_T,New businesses,3284,A
+2013,10,_T,_T,_T,New businesses,1071,A
+2013,11,_T,_T,_T,New businesses,852,A
+2013,24,_T,_T,_T,New businesses,825,A
+2013,26,_T,_T,_T,New businesses,210,A
+2013,CH03,_T,_T,_T,New businesses,4603,A
+2013,12,_T,_T,_T,New businesses,1047,A
+2013,13,_T,_T,_T,New businesses,1016,A
+2013,19,_T,_T,_T,New businesses,2540,A
+2013,CH04,_T,_T,_T,New businesses,7708,A
+2013,1,_T,_T,_T,New businesses,7708,A
+2013,CH05,_T,_T,_T,New businesses,4559,A
+2013,8,_T,_T,_T,New businesses,106,A
+2013,14,_T,_T,_T,New businesses,346,A
+2013,15,_T,_T,_T,New businesses,270,A
+2013,16,_T,_T,_T,New businesses,93,A
+2013,17,_T,_T,_T,New businesses,1865,A
+2013,18,_T,_T,_T,New businesses,883,A
+2013,20,_T,_T,_T,New businesses,996,A
+2013,CH06,_T,_T,_T,New businesses,4411,A
+2013,3,_T,_T,_T,New businesses,1460,A
+2013,4,_T,_T,_T,New businesses,107,A
+2013,5,_T,_T,_T,New businesses,950,A
+2013,6,_T,_T,_T,New businesses,189,A
+2013,7,_T,_T,_T,New businesses,223,A
+2013,9,_T,_T,_T,New businesses,1482,A
+2013,CH07,_T,_T,_T,New businesses,2825,A
+2013,21,_T,_T,_T,New businesses,2825,A
+2013,CH,B-F,_T,_T,New businesses,4649,A
+2013,CH,B-E,_T,_T,New businesses,1730,A
+2013,CH,F,_T,_T,New businesses,2919,A
+2013,CH,G-S,_T,_T,New businesses,32668,A
+2013,CH,G,_T,_T,New businesses,4720,A
+2013,CH,H,_T,_T,New businesses,827,A
+2013,CH,I,_T,_T,New businesses,951,A
+2013,CH,J,_T,_T,New businesses,2103,A
+2013,CH,K,_T,_T,New businesses,1525,A
+2013,CH,L-N,_T,_T,New businesses,3241,A
+2013,CH,M,_T,_T,New businesses,8074,A
+2013,CH,P,_T,_T,New businesses,1631,A
+2013,CH,Q,_T,_T,New businesses,4127,A
+2013,CH,R,_T,_T,New businesses,2236,A
+2013,CH,S,_T,_T,New businesses,3233,A
+2013,CH,_T,1,_T,New businesses,30984,A
+2013,CH,_T,10+,_T,New businesses,142,A
+2013,CH,_T,2TO4,_T,New businesses,5554,A
+2013,CH,_T,5TO9,_T,New businesses,637,A
+2013,CH,_T,_T,1,New businesses,23391,A
+2013,CH,_T,_T,2,New businesses,672,A
+2013,CH,_T,_T,3,New businesses,4973,A
+2013,CH,_T,_T,4,New businesses,7362,A
+2013,CH,_T,_T,5,New businesses,,L
+2013,CH,_T,_T,6,New businesses,214,A
+2013,CH,_T,_T,7,New businesses,631,A
+2013,CH,_T,_T,8,New businesses,,L
+2014,CH,_T,_T,_T,Jobs created by New businesses,56996,A
+2014,CH01,_T,_T,_T,Jobs created by New businesses,10556,A
+2014,22,_T,_T,_T,Jobs created by New businesses,4816,A
+2014,23,_T,_T,_T,Jobs created by New businesses,2003,A
+2014,25,_T,_T,_T,Jobs created by New businesses,3737,A
+2014,CH02,_T,_T,_T,Jobs created by New businesses,9563,A
+2014,2,_T,_T,_T,Jobs created by New businesses,5095,A
+2014,10,_T,_T,_T,Jobs created by New businesses,1657,A
+2014,11,_T,_T,_T,Jobs created by New businesses,1381,A
+2014,24,_T,_T,_T,Jobs created by New businesses,1094,A
+2014,26,_T,_T,_T,Jobs created by New businesses,336,A
+2014,CH03,_T,_T,_T,Jobs created by New businesses,7151,A
+2014,12,_T,_T,_T,Jobs created by New businesses,1779,A
+2014,13,_T,_T,_T,Jobs created by New businesses,1782,A
+2014,19,_T,_T,_T,Jobs created by New businesses,3590,A
+2014,CH04,_T,_T,_T,Jobs created by New businesses,10944,A
+2014,1,_T,_T,_T,Jobs created by New businesses,10944,A
+2014,CH05,_T,_T,_T,Jobs created by New businesses,7180,A
+2014,8,_T,_T,_T,Jobs created by New businesses,195,A
+2014,14,_T,_T,_T,Jobs created by New businesses,527,A
+2014,15,_T,_T,_T,Jobs created by New businesses,404,A
+2014,16,_T,_T,_T,Jobs created by New businesses,151,A
+2014,17,_T,_T,_T,Jobs created by New businesses,2937,A
+2014,18,_T,_T,_T,Jobs created by New businesses,1377,A
+2014,20,_T,_T,_T,Jobs created by New businesses,1589,A
+2014,CH06,_T,_T,_T,Jobs created by New businesses,7014,A
+2014,3,_T,_T,_T,Jobs created by New businesses,2584,A
+2014,4,_T,_T,_T,Jobs created by New businesses,189,A
+2014,5,_T,_T,_T,Jobs created by New businesses,1463,A
+2014,6,_T,_T,_T,Jobs created by New businesses,263,A
+2014,7,_T,_T,_T,Jobs created by New businesses,256,A
+2014,9,_T,_T,_T,Jobs created by New businesses,2259,A
+2014,CH07,_T,_T,_T,Jobs created by New businesses,4588,A
+2014,21,_T,_T,_T,Jobs created by New businesses,4588,A
+2014,CH,B-F,_T,_T,Jobs created by New businesses,8009,A
+2014,CH,B-E,_T,_T,Jobs created by New businesses,2643,A
+2014,CH,F,_T,_T,Jobs created by New businesses,5366,A
+2014,CH,G-S,_T,_T,Jobs created by New businesses,48987,A
+2014,CH,G,_T,_T,Jobs created by New businesses,7269,A
+2014,CH,H,_T,_T,Jobs created by New businesses,1309,A
+2014,CH,I,_T,_T,Jobs created by New businesses,2354,A
+2014,CH,J,_T,_T,Jobs created by New businesses,3220,A
+2014,CH,K,_T,_T,Jobs created by New businesses,2339,A
+2014,CH,L-N,_T,_T,Jobs created by New businesses,6081,A
+2014,CH,M,_T,_T,Jobs created by New businesses,10843,A
+2014,CH,P,_T,_T,Jobs created by New businesses,2281,A
+2014,CH,Q,_T,_T,Jobs created by New businesses,5878,A
+2014,CH,R,_T,_T,Jobs created by New businesses,3172,A
+2014,CH,S,_T,_T,Jobs created by New businesses,4241,A
+2014,CH,_T,1,_T,Jobs created by New businesses,35612,A
+2014,CH,_T,10+,_T,Jobs created by New businesses,2570,A
+2014,CH,_T,2TO4,_T,Jobs created by New businesses,14716,A
+2014,CH,_T,5TO9,_T,Jobs created by New businesses,4098,A
+2014,CH,_T,_T,1,Jobs created by New businesses,29050,A
+2014,CH,_T,_T,2,Jobs created by New businesses,1243,A
+2014,CH,_T,_T,3,Jobs created by New businesses,10508,A
+2014,CH,_T,_T,4,Jobs created by New businesses,14309,A
+2014,CH,_T,_T,5,Jobs created by New businesses,117,A
+2014,CH,_T,_T,6,Jobs created by New businesses,385,A
+2014,CH,_T,_T,7,Jobs created by New businesses,1374,A
+2014,CH,_T,_T,8,Jobs created by New businesses,10,A
+2014,CH,_T,_T,_T,New businesses,42478,A
+2014,CH01,_T,_T,_T,New businesses,7609,A
+2014,22,_T,_T,_T,New businesses,3546,A
+2014,23,_T,_T,_T,New businesses,1440,A
+2014,25,_T,_T,_T,New businesses,2623,A
+2014,CH02,_T,_T,_T,New businesses,7465,A
+2014,2,_T,_T,_T,New businesses,4032,A
+2014,10,_T,_T,_T,New businesses,1245,A
+2014,11,_T,_T,_T,New businesses,1108,A
+2014,24,_T,_T,_T,New businesses,827,A
+2014,26,_T,_T,_T,New businesses,253,A
+2014,CH03,_T,_T,_T,New businesses,5482,A
+2014,12,_T,_T,_T,New businesses,1352,A
+2014,13,_T,_T,_T,New businesses,1366,A
+2014,19,_T,_T,_T,New businesses,2764,A
+2014,CH04,_T,_T,_T,New businesses,8212,A
+2014,1,_T,_T,_T,New businesses,8212,A
+2014,CH05,_T,_T,_T,New businesses,5533,A
+2014,8,_T,_T,_T,New businesses,168,A
+2014,14,_T,_T,_T,New businesses,430,A
+2014,15,_T,_T,_T,New businesses,318,A
+2014,16,_T,_T,_T,New businesses,97,A
+2014,17,_T,_T,_T,New businesses,2268,A
+2014,18,_T,_T,_T,New businesses,1069,A
+2014,20,_T,_T,_T,New businesses,1183,A
+2014,CH06,_T,_T,_T,New businesses,5013,A
+2014,3,_T,_T,_T,New businesses,1843,A
+2014,4,_T,_T,_T,New businesses,120,A
+2014,5,_T,_T,_T,New businesses,1065,A
+2014,6,_T,_T,_T,New businesses,199,A
+2014,7,_T,_T,_T,New businesses,197,A
+2014,9,_T,_T,_T,New businesses,1589,A
+2014,CH07,_T,_T,_T,New businesses,3164,A
+2014,21,_T,_T,_T,New businesses,3164,A
+2014,CH,B-F,_T,_T,New businesses,5124,A
+2014,CH,B-E,_T,_T,New businesses,2040,A
+2014,CH,F,_T,_T,New businesses,3084,A
+2014,CH,G-S,_T,_T,New businesses,37354,A
+2014,CH,G,_T,_T,New businesses,5434,A
+2014,CH,H,_T,_T,New businesses,919,A
+2014,CH,I,_T,_T,New businesses,1117,A
+2014,CH,J,_T,_T,New businesses,2388,A
+2014,CH,K,_T,_T,New businesses,1617,A
+2014,CH,L-N,_T,_T,New businesses,3626,A
+2014,CH,M,_T,_T,New businesses,8920,A
+2014,CH,P,_T,_T,New businesses,2017,A
+2014,CH,Q,_T,_T,New businesses,4962,A
+2014,CH,R,_T,_T,New businesses,2475,A
+2014,CH,S,_T,_T,New businesses,3879,A
+2014,CH,_T,1,_T,New businesses,35612,A
+2014,CH,_T,10+,_T,New businesses,131,A
+2014,CH,_T,2TO4,_T,New businesses,6053,A
+2014,CH,_T,5TO9,_T,New businesses,682,A
+2014,CH,_T,_T,1,New businesses,27516,A
+2014,CH,_T,_T,2,New businesses,759,A
+2014,CH,_T,_T,3,New businesses,5082,A
+2014,CH,_T,_T,4,New businesses,8140,A
+2014,CH,_T,_T,5,New businesses,,L
+2014,CH,_T,_T,6,New businesses,203,A
+2014,CH,_T,_T,7,New businesses,701,A
+2014,CH,_T,_T,8,New businesses,,L
+2015,CH,_T,_T,_T,Jobs created by New businesses,54623,A
+2015,CH01,_T,_T,_T,Jobs created by New businesses,11427,A
+2015,22,_T,_T,_T,Jobs created by New businesses,5202,A
+2015,23,_T,_T,_T,Jobs created by New businesses,1934,A
+2015,25,_T,_T,_T,Jobs created by New businesses,4291,A
+2015,CH02,_T,_T,_T,Jobs created by New businesses,9129,A
+2015,2,_T,_T,_T,Jobs created by New businesses,4922,A
+2015,10,_T,_T,_T,Jobs created by New businesses,1555,A
+2015,11,_T,_T,_T,Jobs created by New businesses,1274,A
+2015,24,_T,_T,_T,Jobs created by New businesses,1031,A
+2015,26,_T,_T,_T,Jobs created by New businesses,347,A
+2015,CH03,_T,_T,_T,Jobs created by New businesses,6148,A
+2015,12,_T,_T,_T,Jobs created by New businesses,1594,A
+2015,13,_T,_T,_T,Jobs created by New businesses,1432,A
+2015,19,_T,_T,_T,Jobs created by New businesses,3122,A
+2015,CH04,_T,_T,_T,Jobs created by New businesses,10163,A
+2015,1,_T,_T,_T,Jobs created by New businesses,10163,A
+2015,CH05,_T,_T,_T,Jobs created by New businesses,6437,A
+2015,8,_T,_T,_T,Jobs created by New businesses,179,A
+2015,14,_T,_T,_T,Jobs created by New businesses,467,A
+2015,15,_T,_T,_T,Jobs created by New businesses,321,A
+2015,16,_T,_T,_T,Jobs created by New businesses,98,A
+2015,17,_T,_T,_T,Jobs created by New businesses,2573,A
+2015,18,_T,_T,_T,Jobs created by New businesses,1336,A
+2015,20,_T,_T,_T,Jobs created by New businesses,1463,A
+2015,CH06,_T,_T,_T,Jobs created by New businesses,6714,A
+2015,3,_T,_T,_T,Jobs created by New businesses,2503,A
+2015,4,_T,_T,_T,Jobs created by New businesses,142,A
+2015,5,_T,_T,_T,Jobs created by New businesses,1322,A
+2015,6,_T,_T,_T,Jobs created by New businesses,232,A
+2015,7,_T,_T,_T,Jobs created by New businesses,303,A
+2015,9,_T,_T,_T,Jobs created by New businesses,2212,A
+2015,CH07,_T,_T,_T,Jobs created by New businesses,4605,A
+2015,21,_T,_T,_T,Jobs created by New businesses,4605,A
+2015,CH,B-F,_T,_T,Jobs created by New businesses,8257,A
+2015,CH,B-E,_T,_T,Jobs created by New businesses,2632,A
+2015,CH,F,_T,_T,Jobs created by New businesses,5625,A
+2015,CH,G-S,_T,_T,Jobs created by New businesses,46366,A
+2015,CH,G,_T,_T,Jobs created by New businesses,6547,A
+2015,CH,H,_T,_T,Jobs created by New businesses,1413,A
+2015,CH,I,_T,_T,Jobs created by New businesses,2750,A
+2015,CH,J,_T,_T,Jobs created by New businesses,3145,A
+2015,CH,K,_T,_T,Jobs created by New businesses,2227,A
+2015,CH,L-N,_T,_T,Jobs created by New businesses,5675,A
+2015,CH,M,_T,_T,Jobs created by New businesses,10183,A
+2015,CH,P,_T,_T,Jobs created by New businesses,2112,A
+2015,CH,Q,_T,_T,Jobs created by New businesses,5468,A
+2015,CH,R,_T,_T,Jobs created by New businesses,3015,A
+2015,CH,S,_T,_T,Jobs created by New businesses,3831,A
+2015,CH,_T,1,_T,Jobs created by New businesses,32475,A
+2015,CH,_T,10+,_T,Jobs created by New businesses,2720,A
+2015,CH,_T,2TO4,_T,Jobs created by New businesses,14925,A
+2015,CH,_T,5TO9,_T,Jobs created by New businesses,4503,A
+2015,CH,_T,_T,1,Jobs created by New businesses,25532,A
+2015,CH,_T,_T,2,Jobs created by New businesses,1175,A
+2015,CH,_T,_T,3,Jobs created by New businesses,10452,A
+2015,CH,_T,_T,4,Jobs created by New businesses,15395,A
+2015,CH,_T,_T,5,Jobs created by New businesses,155,A
+2015,CH,_T,_T,6,Jobs created by New businesses,518,A
+2015,CH,_T,_T,7,Jobs created by New businesses,1396,A
+2015,CH,_T,_T,8,Jobs created by New businesses,0,A
+2015,CH,_T,_T,_T,New businesses,39526,A
+2015,CH01,_T,_T,_T,New businesses,8123,A
+2015,22,_T,_T,_T,New businesses,3825,A
+2015,23,_T,_T,_T,New businesses,1332,A
+2015,25,_T,_T,_T,New businesses,2966,A
+2015,CH02,_T,_T,_T,New businesses,6988,A
+2015,2,_T,_T,_T,New businesses,3790,A
+2015,10,_T,_T,_T,New businesses,1181,A
+2015,11,_T,_T,_T,New businesses,913,A
+2015,24,_T,_T,_T,New businesses,852,A
+2015,26,_T,_T,_T,New businesses,252,A
+2015,CH03,_T,_T,_T,New businesses,4616,A
+2015,12,_T,_T,_T,New businesses,1146,A
+2015,13,_T,_T,_T,New businesses,1067,A
+2015,19,_T,_T,_T,New businesses,2403,A
+2015,CH04,_T,_T,_T,New businesses,7235,A
+2015,1,_T,_T,_T,New businesses,7235,A
+2015,CH05,_T,_T,_T,New businesses,4711,A
+2015,8,_T,_T,_T,New businesses,129,A
+2015,14,_T,_T,_T,New businesses,325,A
+2015,15,_T,_T,_T,New businesses,260,A
+2015,16,_T,_T,_T,New businesses,77,A
+2015,17,_T,_T,_T,New businesses,1911,A
+2015,18,_T,_T,_T,New businesses,919,A
+2015,20,_T,_T,_T,New businesses,1090,A
+2015,CH06,_T,_T,_T,New businesses,4732,A
+2015,3,_T,_T,_T,New businesses,1803,A
+2015,4,_T,_T,_T,New businesses,102,A
+2015,5,_T,_T,_T,New businesses,945,A
+2015,6,_T,_T,_T,New businesses,172,A
+2015,7,_T,_T,_T,New businesses,223,A
+2015,9,_T,_T,_T,New businesses,1487,A
+2015,CH07,_T,_T,_T,New businesses,3121,A
+2015,21,_T,_T,_T,New businesses,3121,A
+2015,CH,B-F,_T,_T,New businesses,5035,A
+2015,CH,B-E,_T,_T,New businesses,1890,A
+2015,CH,F,_T,_T,New businesses,3145,A
+2015,CH,G-S,_T,_T,New businesses,34491,A
+2015,CH,G,_T,_T,New businesses,4722,A
+2015,CH,H,_T,_T,New businesses,964,A
+2015,CH,I,_T,_T,New businesses,1249,A
+2015,CH,J,_T,_T,New businesses,2289,A
+2015,CH,K,_T,_T,New businesses,1492,A
+2015,CH,L-N,_T,_T,New businesses,3684,A
+2015,CH,M,_T,_T,New businesses,8242,A
+2015,CH,P,_T,_T,New businesses,1857,A
+2015,CH,Q,_T,_T,New businesses,4403,A
+2015,CH,R,_T,_T,New businesses,2173,A
+2015,CH,S,_T,_T,New businesses,3416,A
+2015,CH,_T,1,_T,New businesses,32475,A
+2015,CH,_T,10+,_T,New businesses,163,A
+2015,CH,_T,2TO4,_T,New businesses,6155,A
+2015,CH,_T,5TO9,_T,New businesses,733,A
+2015,CH,_T,_T,1,New businesses,24019,A
+2015,CH,_T,_T,2,New businesses,694,A
+2015,CH,_T,_T,3,New businesses,5122,A
+2015,CH,_T,_T,4,New businesses,8682,A
+2015,CH,_T,_T,5,New businesses,85,A
+2015,CH,_T,_T,6,New businesses,193,A
+2015,CH,_T,_T,7,New businesses,731,A
+2015,CH,_T,_T,8,New businesses,0,A
+2016,CH,_T,_T,_T,Jobs created by New businesses,53031,A
+2016,CH01,_T,_T,_T,Jobs created by New businesses,11037,A
+2016,22,_T,_T,_T,Jobs created by New businesses,5122,A
+2016,23,_T,_T,_T,Jobs created by New businesses,2119,A
+2016,25,_T,_T,_T,Jobs created by New businesses,3796,A
+2016,CH02,_T,_T,_T,Jobs created by New businesses,9027,A
+2016,2,_T,_T,_T,Jobs created by New businesses,4788,A
+2016,10,_T,_T,_T,Jobs created by New businesses,1639,A
+2016,11,_T,_T,_T,Jobs created by New businesses,1190,A
+2016,24,_T,_T,_T,Jobs created by New businesses,1075,A
+2016,26,_T,_T,_T,Jobs created by New businesses,335,A
+2016,CH03,_T,_T,_T,Jobs created by New businesses,6032,A
+2016,12,_T,_T,_T,Jobs created by New businesses,1456,A
+2016,13,_T,_T,_T,Jobs created by New businesses,1249,A
+2016,19,_T,_T,_T,Jobs created by New businesses,3327,A
+2016,CH04,_T,_T,_T,Jobs created by New businesses,10033,A
+2016,1,_T,_T,_T,Jobs created by New businesses,10033,A
+2016,CH05,_T,_T,_T,Jobs created by New businesses,6532,A
+2016,8,_T,_T,_T,Jobs created by New businesses,219,A
+2016,14,_T,_T,_T,Jobs created by New businesses,440,A
+2016,15,_T,_T,_T,Jobs created by New businesses,354,A
+2016,16,_T,_T,_T,Jobs created by New businesses,100,A
+2016,17,_T,_T,_T,Jobs created by New businesses,2877,A
+2016,18,_T,_T,_T,Jobs created by New businesses,1161,A
+2016,20,_T,_T,_T,Jobs created by New businesses,1381,A
+2016,CH06,_T,_T,_T,Jobs created by New businesses,6284,A
+2016,3,_T,_T,_T,Jobs created by New businesses,2266,A
+2016,4,_T,_T,_T,Jobs created by New businesses,142,A
+2016,5,_T,_T,_T,Jobs created by New businesses,1312,A
+2016,6,_T,_T,_T,Jobs created by New businesses,219,A
+2016,7,_T,_T,_T,Jobs created by New businesses,303,A
+2016,9,_T,_T,_T,Jobs created by New businesses,2042,A
+2016,CH07,_T,_T,_T,Jobs created by New businesses,4086,A
+2016,21,_T,_T,_T,Jobs created by New businesses,4086,A
+2016,CH,B-F,_T,_T,Jobs created by New businesses,8047,A
+2016,CH,B-E,_T,_T,Jobs created by New businesses,2421,A
+2016,CH,F,_T,_T,Jobs created by New businesses,5626,A
+2016,CH,G-S,_T,_T,Jobs created by New businesses,44984,A
+2016,CH,G,_T,_T,Jobs created by New businesses,6283,A
+2016,CH,H,_T,_T,Jobs created by New businesses,1228,A
+2016,CH,I,_T,_T,Jobs created by New businesses,2444,A
+2016,CH,J,_T,_T,Jobs created by New businesses,2967,A
+2016,CH,K,_T,_T,Jobs created by New businesses,2121,A
+2016,CH,L-N,_T,_T,Jobs created by New businesses,5277,A
+2016,CH,M,_T,_T,Jobs created by New businesses,10049,A
+2016,CH,P,_T,_T,Jobs created by New businesses,2238,A
+2016,CH,Q,_T,_T,Jobs created by New businesses,5383,A
+2016,CH,R,_T,_T,Jobs created by New businesses,2950,A
+2016,CH,S,_T,_T,Jobs created by New businesses,4044,A
+2016,CH,_T,1,_T,Jobs created by New businesses,32254,A
+2016,CH,_T,10+,_T,Jobs created by New businesses,1921,A
+2016,CH,_T,2TO4,_T,Jobs created by New businesses,14834,A
+2016,CH,_T,5TO9,_T,Jobs created by New businesses,4022,A
+2016,CH,_T,_T,1,Jobs created by New businesses,25422,A
+2016,CH,_T,_T,2,Jobs created by New businesses,1132,A
+2016,CH,_T,_T,3,Jobs created by New businesses,9477,A
+2016,CH,_T,_T,4,Jobs created by New businesses,15049,A
+2016,CH,_T,_T,5,Jobs created by New businesses,199,A
+2016,CH,_T,_T,6,Jobs created by New businesses,325,A
+2016,CH,_T,_T,7,Jobs created by New businesses,1427,A
+2016,CH,_T,_T,8,Jobs created by New businesses,0,A
+2016,CH,_T,_T,_T,New businesses,39125,A
+2016,CH01,_T,_T,_T,New businesses,8087,A
+2016,22,_T,_T,_T,New businesses,3832,A
+2016,23,_T,_T,_T,New businesses,1576,A
+2016,25,_T,_T,_T,New businesses,2679,A
+2016,CH02,_T,_T,_T,New businesses,6983,A
+2016,2,_T,_T,_T,New businesses,3655,A
+2016,10,_T,_T,_T,New businesses,1238,A
+2016,11,_T,_T,_T,New businesses,936,A
+2016,24,_T,_T,_T,New businesses,889,A
+2016,26,_T,_T,_T,New businesses,265,A
+2016,CH03,_T,_T,_T,New businesses,4522,A
+2016,12,_T,_T,_T,New businesses,1024,A
+2016,13,_T,_T,_T,New businesses,1002,A
+2016,19,_T,_T,_T,New businesses,2496,A
+2016,CH04,_T,_T,_T,New businesses,7249,A
+2016,1,_T,_T,_T,New businesses,7249,A
+2016,CH05,_T,_T,_T,New businesses,4912,A
+2016,8,_T,_T,_T,New businesses,149,A
+2016,14,_T,_T,_T,New businesses,353,A
+2016,15,_T,_T,_T,New businesses,294,A
+2016,16,_T,_T,_T,New businesses,83,A
+2016,17,_T,_T,_T,New businesses,2070,A
+2016,18,_T,_T,_T,New businesses,887,A
+2016,20,_T,_T,_T,New businesses,1076,A
+2016,CH06,_T,_T,_T,New businesses,4423,A
+2016,3,_T,_T,_T,New businesses,1609,A
+2016,4,_T,_T,_T,New businesses,103,A
+2016,5,_T,_T,_T,New businesses,925,A
+2016,6,_T,_T,_T,New businesses,184,A
+2016,7,_T,_T,_T,New businesses,202,A
+2016,9,_T,_T,_T,New businesses,1400,A
+2016,CH07,_T,_T,_T,New businesses,2949,A
+2016,21,_T,_T,_T,New businesses,2949,A
+2016,CH,B-F,_T,_T,New businesses,4912,A
+2016,CH,B-E,_T,_T,New businesses,1713,A
+2016,CH,F,_T,_T,New businesses,3199,A
+2016,CH,G-S,_T,_T,New businesses,34213,A
+2016,CH,G,_T,_T,New businesses,4511,A
+2016,CH,H,_T,_T,New businesses,885,A
+2016,CH,I,_T,_T,New businesses,1228,A
+2016,CH,J,_T,_T,New businesses,2191,A
+2016,CH,K,_T,_T,New businesses,1432,A
+2016,CH,L-N,_T,_T,New businesses,3548,A
+2016,CH,M,_T,_T,New businesses,8156,A
+2016,CH,P,_T,_T,New businesses,1949,A
+2016,CH,Q,_T,_T,New businesses,4472,A
+2016,CH,R,_T,_T,New businesses,2215,A
+2016,CH,S,_T,_T,New businesses,3626,A
+2016,CH,_T,1,_T,New businesses,32254,A
+2016,CH,_T,10+,_T,New businesses,116,A
+2016,CH,_T,2TO4,_T,New businesses,6103,A
+2016,CH,_T,5TO9,_T,New businesses,652,A
+2016,CH,_T,_T,1,New businesses,23878,A
+2016,CH,_T,_T,2,New businesses,689,A
+2016,CH,_T,_T,3,New businesses,4790,A
+2016,CH,_T,_T,4,New businesses,8720,A
+2016,CH,_T,_T,5,New businesses,99,A
+2016,CH,_T,_T,6,New businesses,185,A
+2016,CH,_T,_T,7,New businesses,764,A
+2016,CH,_T,_T,8,New businesses,0,A
+2017,CH,_T,_T,_T,Jobs created by New businesses,53480,A
+2017,CH01,_T,_T,_T,Jobs created by New businesses,11811,A
+2017,22,_T,_T,_T,Jobs created by New businesses,5589,A
+2017,23,_T,_T,_T,Jobs created by New businesses,2119,A
+2017,25,_T,_T,_T,Jobs created by New businesses,4103,A
+2017,CH02,_T,_T,_T,Jobs created by New businesses,9017,A
+2017,2,_T,_T,_T,Jobs created by New businesses,4807,A
+2017,10,_T,_T,_T,Jobs created by New businesses,1511,A
+2017,11,_T,_T,_T,Jobs created by New businesses,1269,A
+2017,24,_T,_T,_T,Jobs created by New businesses,1046,A
+2017,26,_T,_T,_T,Jobs created by New businesses,384,A
+2017,CH03,_T,_T,_T,Jobs created by New businesses,5926,A
+2017,12,_T,_T,_T,Jobs created by New businesses,1455,A
+2017,13,_T,_T,_T,Jobs created by New businesses,1380,A
+2017,19,_T,_T,_T,Jobs created by New businesses,3091,A
+2017,CH04,_T,_T,_T,Jobs created by New businesses,10141,A
+2017,1,_T,_T,_T,Jobs created by New businesses,10141,A
+2017,CH05,_T,_T,_T,Jobs created by New businesses,6429,A
+2017,8,_T,_T,_T,Jobs created by New businesses,204,A
+2017,14,_T,_T,_T,Jobs created by New businesses,466,A
+2017,15,_T,_T,_T,Jobs created by New businesses,336,A
+2017,16,_T,_T,_T,Jobs created by New businesses,87,A
+2017,17,_T,_T,_T,Jobs created by New businesses,2752,A
+2017,18,_T,_T,_T,Jobs created by New businesses,1126,A
+2017,20,_T,_T,_T,Jobs created by New businesses,1458,A
+2017,CH06,_T,_T,_T,Jobs created by New businesses,6479,A
+2017,3,_T,_T,_T,Jobs created by New businesses,2423,A
+2017,4,_T,_T,_T,Jobs created by New businesses,177,A
+2017,5,_T,_T,_T,Jobs created by New businesses,1203,A
+2017,6,_T,_T,_T,Jobs created by New businesses,242,A
+2017,7,_T,_T,_T,Jobs created by New businesses,272,A
+2017,9,_T,_T,_T,Jobs created by New businesses,2162,A
+2017,CH07,_T,_T,_T,Jobs created by New businesses,3677,A
+2017,21,_T,_T,_T,Jobs created by New businesses,3677,A
+2017,CH,B-F,_T,_T,Jobs created by New businesses,8176,A
+2017,CH,B-E,_T,_T,Jobs created by New businesses,2683,A
+2017,CH,F,_T,_T,Jobs created by New businesses,5493,A
+2017,CH,G-S,_T,_T,Jobs created by New businesses,45304,A
+2017,CH,G,_T,_T,Jobs created by New businesses,6081,A
+2017,CH,H,_T,_T,Jobs created by New businesses,1334,A
+2017,CH,I,_T,_T,Jobs created by New businesses,2006,A
+2017,CH,J,_T,_T,Jobs created by New businesses,3105,A
+2017,CH,K,_T,_T,Jobs created by New businesses,1955,A
+2017,CH,L-N,_T,_T,Jobs created by New businesses,5474,A
+2017,CH,M,_T,_T,Jobs created by New businesses,10610,A
+2017,CH,P,_T,_T,Jobs created by New businesses,2382,A
+2017,CH,Q,_T,_T,Jobs created by New businesses,5535,A
+2017,CH,R,_T,_T,Jobs created by New businesses,2943,A
+2017,CH,S,_T,_T,Jobs created by New businesses,3879,A
+2017,CH,_T,1,_T,Jobs created by New businesses,32419,A
+2017,CH,_T,10+,_T,Jobs created by New businesses,2105,A
+2017,CH,_T,2TO4,_T,Jobs created by New businesses,15030,A
+2017,CH,_T,5TO9,_T,Jobs created by New businesses,3926,A
+2017,CH,_T,_T,1,Jobs created by New businesses,24922,A
+2017,CH,_T,_T,2,Jobs created by New businesses,1036,A
+2017,CH,_T,_T,3,Jobs created by New businesses,9539,A
+2017,CH,_T,_T,4,Jobs created by New businesses,15893,A
+2017,CH,_T,_T,5,Jobs created by New businesses,200,A
+2017,CH,_T,_T,6,Jobs created by New businesses,418,A
+2017,CH,_T,_T,7,Jobs created by New businesses,1460,A
+2017,CH,_T,_T,8,Jobs created by New businesses,12,A
+2017,CH,_T,_T,_T,New businesses,39303,A
+2017,CH01,_T,_T,_T,New businesses,8807,A
+2017,22,_T,_T,_T,New businesses,4343,A
+2017,23,_T,_T,_T,New businesses,1582,A
+2017,25,_T,_T,_T,New businesses,2882,A
+2017,CH02,_T,_T,_T,New businesses,6953,A
+2017,2,_T,_T,_T,New businesses,3621,A
+2017,10,_T,_T,_T,New businesses,1200,A
+2017,11,_T,_T,_T,New businesses,957,A
+2017,24,_T,_T,_T,New businesses,894,A
+2017,26,_T,_T,_T,New businesses,281,A
+2017,CH03,_T,_T,_T,New businesses,4407,A
+2017,12,_T,_T,_T,New businesses,1061,A
+2017,13,_T,_T,_T,New businesses,994,A
+2017,19,_T,_T,_T,New businesses,2352,A
+2017,CH04,_T,_T,_T,New businesses,7226,A
+2017,1,_T,_T,_T,New businesses,7226,A
+2017,CH05,_T,_T,_T,New businesses,4808,A
+2017,8,_T,_T,_T,New businesses,145,A
+2017,14,_T,_T,_T,New businesses,342,A
+2017,15,_T,_T,_T,New businesses,250,A
+2017,16,_T,_T,_T,New businesses,69,A
+2017,17,_T,_T,_T,New businesses,1999,A
+2017,18,_T,_T,_T,New businesses,848,A
+2017,20,_T,_T,_T,New businesses,1155,A
+2017,CH06,_T,_T,_T,New businesses,4478,A
+2017,3,_T,_T,_T,New businesses,1603,A
+2017,4,_T,_T,_T,New businesses,99,A
+2017,5,_T,_T,_T,New businesses,930,A
+2017,6,_T,_T,_T,New businesses,187,A
+2017,7,_T,_T,_T,New businesses,194,A
+2017,9,_T,_T,_T,New businesses,1465,A
+2017,CH07,_T,_T,_T,New businesses,2624,A
+2017,21,_T,_T,_T,New businesses,2624,A
+2017,CH,B-F,_T,_T,New businesses,5035,A
+2017,CH,B-E,_T,_T,New businesses,1879,A
+2017,CH,F,_T,_T,New businesses,3156,A
+2017,CH,G-S,_T,_T,New businesses,34268,A
+2017,CH,G,_T,_T,New businesses,4403,A
+2017,CH,H,_T,_T,New businesses,953,A
+2017,CH,I,_T,_T,New businesses,1136,A
+2017,CH,J,_T,_T,New businesses,2292,A
+2017,CH,K,_T,_T,New businesses,1349,A
+2017,CH,L-N,_T,_T,New businesses,3605,A
+2017,CH,M,_T,_T,New businesses,8315,A
+2017,CH,P,_T,_T,New businesses,2042,A
+2017,CH,Q,_T,_T,New businesses,4526,A
+2017,CH,R,_T,_T,New businesses,2164,A
+2017,CH,S,_T,_T,New businesses,3483,A
+2017,CH,_T,1,_T,New businesses,32419,A
+2017,CH,_T,10+,_T,New businesses,109,A
+2017,CH,_T,2TO4,_T,New businesses,6134,A
+2017,CH,_T,5TO9,_T,New businesses,641,A
+2017,CH,_T,_T,1,New businesses,23492,A
+2017,CH,_T,_T,2,New businesses,604,A
+2017,CH,_T,_T,3,New businesses,4917,A
+2017,CH,_T,_T,4,New businesses,9210,A
+2017,CH,_T,_T,5,New businesses,,L
+2017,CH,_T,_T,6,New businesses,170,A
+2017,CH,_T,_T,7,New businesses,806,A
+2017,CH,_T,_T,8,New businesses,,L
+2018,CH,_T,_T,_T,Jobs created by New businesses,54052,A
+2018,CH01,_T,_T,_T,Jobs created by New businesses,12251,A
+2018,22,_T,_T,_T,Jobs created by New businesses,5580,A
+2018,23,_T,_T,_T,Jobs created by New businesses,2152,A
+2018,25,_T,_T,_T,Jobs created by New businesses,4519,A
+2018,CH02,_T,_T,_T,Jobs created by New businesses,9109,A
+2018,2,_T,_T,_T,Jobs created by New businesses,4745,A
+2018,10,_T,_T,_T,Jobs created by New businesses,1762,A
+2018,11,_T,_T,_T,Jobs created by New businesses,1172,A
+2018,24,_T,_T,_T,Jobs created by New businesses,1066,A
+2018,26,_T,_T,_T,Jobs created by New businesses,364,A
+2018,CH03,_T,_T,_T,Jobs created by New businesses,5690,A
+2018,12,_T,_T,_T,Jobs created by New businesses,1353,A
+2018,13,_T,_T,_T,Jobs created by New businesses,1340,A
+2018,19,_T,_T,_T,Jobs created by New businesses,2997,A
+2018,CH04,_T,_T,_T,Jobs created by New businesses,10318,A
+2018,1,_T,_T,_T,Jobs created by New businesses,10318,A
+2018,CH05,_T,_T,_T,Jobs created by New businesses,6398,A
+2018,8,_T,_T,_T,Jobs created by New businesses,181,A
+2018,14,_T,_T,_T,Jobs created by New businesses,441,A
+2018,15,_T,_T,_T,Jobs created by New businesses,355,A
+2018,16,_T,_T,_T,Jobs created by New businesses,92,A
+2018,17,_T,_T,_T,Jobs created by New businesses,2728,A
+2018,18,_T,_T,_T,Jobs created by New businesses,1192,A
+2018,20,_T,_T,_T,Jobs created by New businesses,1409,A
+2018,CH06,_T,_T,_T,Jobs created by New businesses,6631,A
+2018,3,_T,_T,_T,Jobs created by New businesses,2146,A
+2018,4,_T,_T,_T,Jobs created by New businesses,132,A
+2018,5,_T,_T,_T,Jobs created by New businesses,1341,A
+2018,6,_T,_T,_T,Jobs created by New businesses,242,A
+2018,7,_T,_T,_T,Jobs created by New businesses,307,A
+2018,9,_T,_T,_T,Jobs created by New businesses,2463,A
+2018,CH07,_T,_T,_T,Jobs created by New businesses,3655,A
+2018,21,_T,_T,_T,Jobs created by New businesses,3655,A
+2018,CH,B-F,_T,_T,Jobs created by New businesses,8196,A
+2018,CH,B-E,_T,_T,Jobs created by New businesses,2793,A
+2018,CH,F,_T,_T,Jobs created by New businesses,5403,A
+2018,CH,G-S,_T,_T,Jobs created by New businesses,45856,A
+2018,CH,G,_T,_T,Jobs created by New businesses,5987,A
+2018,CH,H,_T,_T,Jobs created by New businesses,1440,A
+2018,CH,I,_T,_T,Jobs created by New businesses,2785,A
+2018,CH,J,_T,_T,Jobs created by New businesses,3397,A
+2018,CH,K,_T,_T,Jobs created by New businesses,2052,A
+2018,CH,L-N,_T,_T,Jobs created by New businesses,5298,A
+2018,CH,M,_T,_T,Jobs created by New businesses,10543,A
+2018,CH,P,_T,_T,Jobs created by New businesses,2261,A
+2018,CH,Q,_T,_T,Jobs created by New businesses,5385,A
+2018,CH,R,_T,_T,Jobs created by New businesses,2941,A
+2018,CH,S,_T,_T,Jobs created by New businesses,3767,A
+2018,CH,_T,1,_T,Jobs created by New businesses,32719,A
+2018,CH,_T,10+,_T,Jobs created by New businesses,2613,A
+2018,CH,_T,2TO4,_T,Jobs created by New businesses,15079,A
+2018,CH,_T,5TO9,_T,Jobs created by New businesses,3641,A
+2018,CH,_T,_T,1,Jobs created by New businesses,25085,A
+2018,CH,_T,_T,2,Jobs created by New businesses,990,A
+2018,CH,_T,_T,3,Jobs created by New businesses,9575,A
+2018,CH,_T,_T,4,Jobs created by New businesses,16370,A
+2018,CH,_T,_T,5,Jobs created by New businesses,,L
+2018,CH,_T,_T,6,Jobs created by New businesses,297,A
+2018,CH,_T,_T,7,Jobs created by New businesses,1555,A
+2018,CH,_T,_T,8,Jobs created by New businesses,,L
+2018,CH,_T,_T,_T,New businesses,39608,A
+2018,CH01,_T,_T,_T,New businesses,8892,A
+2018,22,_T,_T,_T,New businesses,4147,A
+2018,23,_T,_T,_T,New businesses,1563,A
+2018,25,_T,_T,_T,New businesses,3182,A
+2018,CH02,_T,_T,_T,New businesses,7045,A
+2018,2,_T,_T,_T,New businesses,3727,A
+2018,10,_T,_T,_T,New businesses,1293,A
+2018,11,_T,_T,_T,New businesses,879,A
+2018,24,_T,_T,_T,New businesses,873,A
+2018,26,_T,_T,_T,New businesses,273,A
+2018,CH03,_T,_T,_T,New businesses,4185,A
+2018,12,_T,_T,_T,New businesses,989,A
+2018,13,_T,_T,_T,New businesses,1008,A
+2018,19,_T,_T,_T,New businesses,2188,A
+2018,CH04,_T,_T,_T,New businesses,7496,A
+2018,1,_T,_T,_T,New businesses,7496,A
+2018,CH05,_T,_T,_T,New businesses,4814,A
+2018,8,_T,_T,_T,New businesses,147,A
+2018,14,_T,_T,_T,New businesses,323,A
+2018,15,_T,_T,_T,New businesses,277,A
+2018,16,_T,_T,_T,New businesses,70,A
+2018,17,_T,_T,_T,New businesses,2036,A
+2018,18,_T,_T,_T,New businesses,898,A
+2018,20,_T,_T,_T,New businesses,1063,A
+2018,CH06,_T,_T,_T,New businesses,4616,A
+2018,3,_T,_T,_T,New businesses,1533,A
+2018,4,_T,_T,_T,New businesses,99,A
+2018,5,_T,_T,_T,New businesses,1014,A
+2018,6,_T,_T,_T,New businesses,177,A
+2018,7,_T,_T,_T,New businesses,214,A
+2018,9,_T,_T,_T,New businesses,1579,A
+2018,CH07,_T,_T,_T,New businesses,2560,A
+2018,21,_T,_T,_T,New businesses,2560,A
+2018,CH,B-F,_T,_T,New businesses,5048,A
+2018,CH,B-E,_T,_T,New businesses,1861,A
+2018,CH,F,_T,_T,New businesses,3187,A
+2018,CH,G-S,_T,_T,New businesses,34560,A
+2018,CH,G,_T,_T,New businesses,4332,A
+2018,CH,H,_T,_T,New businesses,1099,A
+2018,CH,I,_T,_T,New businesses,1310,A
+2018,CH,J,_T,_T,New businesses,2424,A
+2018,CH,K,_T,_T,New businesses,1365,A
+2018,CH,L-N,_T,_T,New businesses,3555,A
+2018,CH,M,_T,_T,New businesses,8561,A
+2018,CH,P,_T,_T,New businesses,1975,A
+2018,CH,Q,_T,_T,New businesses,4530,A
+2018,CH,R,_T,_T,New businesses,2108,A
+2018,CH,S,_T,_T,New businesses,3301,A
+2018,CH,_T,1,_T,New businesses,32719,A
+2018,CH,_T,10+,_T,New businesses,140,A
+2018,CH,_T,2TO4,_T,New businesses,6158,A
+2018,CH,_T,5TO9,_T,New businesses,591,A
+2018,CH,_T,_T,1,New businesses,23541,A
+2018,CH,_T,_T,2,New businesses,612,A
+2018,CH,_T,_T,3,New businesses,4764,A
+2018,CH,_T,_T,4,New businesses,9617,A
+2018,CH,_T,_T,5,New businesses,,L
+2018,CH,_T,_T,6,New businesses,168,A
+2018,CH,_T,_T,7,New businesses,807,A
+2018,CH,_T,_T,8,New businesses,,L
