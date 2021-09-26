@@ -138,5 +138,5 @@ quiz_df_business <- rbind(quiz_df_business, tmp)
 
 
 write.csv(quiz_df_business[sample(nrow(quiz_df_business)), ], 
-          "C:/Users/marin/Documents/HackZurich2021/quiz_db/quiz_df_business.csv",
+          "HackZurich2021/quiz_db/quiz_df_business.csv",
           row.names = FALSE)
